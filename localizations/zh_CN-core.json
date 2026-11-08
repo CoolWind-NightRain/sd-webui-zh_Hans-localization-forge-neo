@@ -1344,5 +1344,15 @@
     "invert (from white bg & black line)": "invert (白色背景黑线翻转)",
     "lineart_standard (from white bg & black line)": "lineart_standard (白色背景黑线)",
     "densepose (pruple bg & purple torso)": "densepose (紫色背景+紫色躯干)",
-    "densepose_parula (black bg & blue torso)": "densepose_parula (黑色背景+蓝色躯干)"
+    "densepose_parula (black bg & blue torso)": "densepose_parula (黑色背景+蓝色躯干)",
+    "Sparse Attention Integrated": "稀疏注意力集成",
+    "Tau": "Tau (稀疏阈值)",
+    "Timestep Range": "时间步范围",
+    "Tokens Threshold": "Token 阈值",
+    "Extra Tokens": "额外 Token",
+    "Dense Blocks": "密集计算块",
+    "Verbose (Debug)": "详细输出 (调试)",
+    "higher = faster & worse quality": "数值越高越快，但质量越差",
+    "model & resolution dependent ; higher = slower & better quality": "取决于模型与分辨率；数值越高越慢，但质量越好",
+    "blocks to keep dense (i.e. slower / better quality)": "保持密集计算的块（即更慢/质量更好）"
 }
