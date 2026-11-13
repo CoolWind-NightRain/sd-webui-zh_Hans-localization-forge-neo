@@ -5926,7 +5926,7 @@
     "Wildcards can be used and the joiner can also be specified:": "也可以使用通配符，并指定连接词：",
     "Wildcards file": "通配符文件",
     "wildcards found.": "找到通配符。",
-    "Wildcards Manager": "Wildcards Manager 通配符管理器",
+    "Wildcards Manager": "通配符管理",
     "Will append any content type and sub folders to the custom path.": "会把内容类型与子文件夹追加到自定义路径后。",
     "Will be added to negative prompts": "将加入负面提示词",
     "Will be added to prompt along with Lora": "将与 LoRA 一起加入提示词",
