@@ -1,6 +1,5 @@
 # sd-webui-zh_Hans-localization-forge-neo
 
-zh_CN-Extra.json 是forge-neo本体 + 一部分插件的汉化
 专为  [sd-webui-forge-classic](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo) 打造的简体中文汉化扩展。
 
 💡 项目背景：
